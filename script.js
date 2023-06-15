@@ -5,6 +5,22 @@ const setCurrentYear = () => {
 }
 setCurrentYear()
 
+//dropdown language selector
+const dropdownToggle = document.querySelector('.dropdown-toggle');
+const dropdownMenu = document.querySelector('.dropdown-menu');
+
+dropdownToggle.addEventListener('click', function() {
+  const isExpanded = dropdownToggle.getAttribute('aria-expanded') === 'true';
+  
+  if (isExpanded) {
+    dropdownToggle.setAttribute('aria-expanded', 'false');
+    dropdownMenu.style.display = 'none';
+  } else {
+    dropdownToggle.setAttribute('aria-expanded', 'true');
+    dropdownMenu.style.display = 'block';
+  }
+});
+
 // hamburger menu
 const hamburger = document.querySelector('.hamburger')
 const navList = document.querySelector('.nav-list')
