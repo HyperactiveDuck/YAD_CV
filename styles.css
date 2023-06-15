@@ -271,8 +271,8 @@ small {
 
 .language-selector {
 	position: absolute;
-	top: 0;
-	right: 1.5rem;
+	top: 1.5rem;
+	right: 2rem;
   }
   
   .dropdown-toggle {
