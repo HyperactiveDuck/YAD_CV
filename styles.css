@@ -272,7 +272,7 @@ small {
 
 .language-selector {
 	position: absolute;
-	top: 1.5rem;
+	top: 7rem;
 	right: 2rem;
   }
   
@@ -739,7 +739,6 @@ Expereineces
 /* other noteworthy projects */
 .other-noteworthy-project {
 	border-radius: 5%;
-	background-color: var(--certbackgroound);
 	margin-block-start: 15rem;
 }
 
@@ -749,7 +748,7 @@ Expereineces
 }
 
 .other-projects {
-	background-color: var(--certbackgroound);
+
 	padding-block-start: calc(var(--section-mt) / 2);
 	display: grid;
 	grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
@@ -923,10 +922,12 @@ Expereineces
 
 	.nav-list,
 	.social-nav {
+		
 		transition: opacity 300ms ease-in-out;
 	}
 
 	.nav-list {
+		
 		flex-direction: column;
 		position: absolute;
 		top: 250px;
@@ -938,6 +939,7 @@ Expereineces
 	}
 
 	.social-nav {
+		
 		opacity: 0;
 		pointer-events: none;
 		position: absolute;
