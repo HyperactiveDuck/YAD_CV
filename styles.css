@@ -545,6 +545,105 @@ small {
 	gap: 3.2rem 1rem;
 }
 
+/**************
+Expereineces
+************/
+.experiences-section {
+	margin-block-start: var(--section-mt);
+	padding: 4rem 1rem;
+  }
+  
+  .experiences {
+	padding-block-start: 5rem;
+	display: flex;
+	flex-direction: column;
+	gap: 12rem;
+  }
+  
+  .experience {
+	display: flex;
+	gap: 5rem;
+  }
+  
+  .experience-img {
+	width: 500px;
+	height: 500px;
+	transition: opacity 300ms ease-in-out;
+	position: relative;
+	display: inline-block;
+	margin-top: 15rem;
+  }
+  
+  .experience-img:hover {
+	opacity: 0.9;
+  }
+  
+  .experience-content {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: flex-start;
+  }
+  
+  .experience-heading {
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	margin-left: 1.5rem; /* Adjust the margin as needed */
+  }
+  
+  .experience h3 {
+	font-size: clamp(2rem, 3vw, 4rem);
+	font-weight: 500;
+	letter-spacing: 5px;
+	color: var(--other-clr);
+  }
+  
+  .experience h2 {
+	padding-block-start: clamp(1.5rem, 2vw, 3rem);
+	font-size: clamp(2.5rem, 3vw, 4rem);
+  }
+  
+  .experience p {
+	padding-block-start: 1.5rem;
+	max-width: 500px;
+  }
+  
+  .tech-stack,
+  .experience-links {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	gap: 2rem;
+	padding-block-start: 2rem;
+  }
+  
+  .experience-links {
+	column-gap: 5rem;
+	padding-block-start: 3.2rem;
+  }
+  
+  .tech-stack li {
+	padding: 0.2rem 0.5rem;
+	background: var(--tag-clr);
+	border-radius: 2px;
+	color: var(--primary-clr);
+	font-size: clamp(1.15rem, 1vw, 1.3rem);
+  }
+  
+  .experience-links a {
+	display: flex;
+	align-items: center;
+	gap: 0.5rem;
+	position: relative;
+	transition: var(--transition-clr);
+  }
+  
+  .experience-links a:hover {
+	color: var(--accent-clr);
+  }
+  
+  
 /*******************
 		PROJECTS SECTION
 *************************/
