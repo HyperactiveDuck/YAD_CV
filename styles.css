@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Fira+Sans:wght@500;800;900&display=swap');
 /**/
 :root {
+	--certbackgroound: hsl(0, 0%, 43%);
 	--primary-clr: hsl(0, 0%, 0%);
 	--secondary-clr: hsl(0, 0%, 11%);
 	--other-clr: hsl(0, 0%, 61%);
@@ -550,6 +551,7 @@ Expereineces
 ************/
 .experiences-section {
 	margin-block-start: var(--section-mt);
+	background: var(--secondary-clr);
 	padding: 4rem 1rem;
   }
   
@@ -736,6 +738,8 @@ Expereineces
 
 /* other noteworthy projects */
 .other-noteworthy-project {
+	border-radius: 5%;
+	background-color: var(--certbackgroound);
 	margin-block-start: 15rem;
 }
 
@@ -745,6 +749,7 @@ Expereineces
 }
 
 .other-projects {
+	background-color: var(--certbackgroound);
 	padding-block-start: calc(var(--section-mt) / 2);
 	display: grid;
 	grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
@@ -760,7 +765,7 @@ Expereineces
 	justify-content: space-between;
 	gap: 1rem;
 	background: var(--secondary-clr);
-	border-radius: 0.3rem;
+	border-radius: 10%;
 	overflow: hidden;
 	font-size: 1.45rem;
 	box-shadow: 0px 0px 2.2px rgba(0, 0, 0, 0.011),
@@ -776,10 +781,12 @@ Expereineces
 }
 
 .other-projects a img {
+	
 	object-fit: cover;
 }
 
 .other-projects div {
+
 	padding: 2rem;
 	display: flex;
 	flex-direction: column;
@@ -800,6 +807,7 @@ Expereineces
 }
 
 .other-projects p {
+	border-radius: 25%;
 	font-size: clamp(1.15rem, 1vw, 1.3rem);
 }
 
