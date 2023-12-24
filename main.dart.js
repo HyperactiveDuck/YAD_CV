@@ -76295,10 +76295,10 @@ J(a){var s=null,r=A.Uc().$0().d
 return A.e4(this.d,A.b9(s,s,B.h,s,s,s,s,s,r,s,s,this.c>1200?15:10,s,s,B.ae,s,s,!0,s,s,s,s,s,s,s,s),s)}}
 A.DB.prototype={
 J(a){var s=null,r=this.c,q=this.d,p=A.a([new A.dn(5,B.c4,A.Z(51,0,0,0),B.HK,10)],t.sq),o=t.p
-return A.ba(s,A.bY(A.a([new A.bm(B.cE,A.ba(s,A.ajo("assets/YAD_BIG.jpg"),B.l,s,s,new A.cx(s,s,s,s,p,s,B.ar),s,s,s,s,s,s,s),s),B.KX,new A.bm(B.cE,A.ba(s,A.bY(A.a([A.b6("Who is Y\xfccel Arda DEM\u0130RC\u0130",s,s,A.b9(s,s,B.H,s,s,s,s,s,A.bG().$0().d,s,s,15,s,s,s,s,s,!0,s,3,s,s,s,s,s,s),s),A.b6("A Bit About Me",s,s,A.b9(s,s,B.h,s,s,s,s,s,A.alm().$0().d,s,s,40,s,s,B.y,s,s,!0,s,2,s,s,s,s,s,s),s),A.c7(s,q*0.05,s),A.b6(u.M,s,s,B.bJ,s)],o),B.as,B.N,B.r),B.l,s,s,s,s,q*0.4,s,s,s,s,r*0.9),s)],o),B.as,B.N,B.r),B.l,B.b9,s,s,s,q,s,s,s,s,r)}}
+return A.ba(s,A.bY(A.a([new A.bm(B.cE,A.ba(s,A.ajo("assets/YAD_BIG.jpg"),B.l,s,s,new A.cx(s,s,s,s,p,s,B.ar),s,s,s,s,s,s,s),s),B.KX,new A.bm(B.cE,A.ba(s,A.bY(A.a([A.b6("Who is Y\xfccel Arda DEM\u0130RC\u0130",s,s,A.b9(s,s,B.H,s,s,s,s,s,A.bG().$0().d,s,s,15,s,s,s,s,s,!0,s,3,s,s,s,s,s,s),s),A.b6("A Bit About Me",s,s,A.b9(s,s,B.h,s,s,s,s,s,A.alm().$0().d,s,s,40,s,s,B.y,s,s,!0,s,2,s,s,s,s,s,s),s),A.c7(s,q*0.05,s),A.b6(u.M,s,s,B.bJ,s)],o),B.as,B.N,B.r),B.l,s,s,s,s,q*0.4,s,s,s,s,r*0.9),s)],o),B.as,B.N,B.r),B.l,B.b9,s,s,s,q*1.25,s,s,s,s,r)}}
 A.Ej.prototype={
 J(a){var s=null,r=this.c,q=r*0.05,p=r*0.1
-return A.ba(s,A.bY(A.a([A.c7(s,q,s),A.b6("My Certifications",s,s,A.b9(s,s,B.H,s,s,s,s,s,A.bG().$0().d,s,s,40,s,s,B.ae,s,s,!0,s,s,s,s,s,s,s,s),s),A.c7(s,q,s),A.bD(s,B.A8,B.v,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.VV(),s,s,s),A.c7(s,p,s),A.bD(s,B.A6,B.v,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.VW(),s,s,s),A.c7(s,p,s),A.bD(s,B.A7,B.v,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.VX(),s,s,s),A.c7(s,p,s),A.bD(s,B.A5,B.v,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.VY(),s,s,s)],t.p),B.A,B.N,B.r),B.l,B.b9,s,s,s,r*2,s,s,s,s,this.d)}}
+return A.ba(s,A.bY(A.a([A.c7(s,q,s),A.b6("My Certifications",s,s,A.b9(s,s,B.H,s,s,s,s,s,A.bG().$0().d,s,s,40,s,s,B.ae,s,s,!0,s,s,s,s,s,s,s,s),s),A.c7(s,q,s),A.bD(s,B.A8,B.v,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.VV(),s,s,s),A.c7(s,p,s),A.bD(s,B.A6,B.v,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.VW(),s,s,s),A.c7(s,p,s),A.bD(s,B.A7,B.v,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.VX(),s,s,s),A.c7(s,p,s),A.bD(s,B.A5,B.v,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.VY(),s,s,s)],t.p),B.A,B.N,B.r),B.l,B.b9,s,s,s,r*2.35,s,s,s,s,this.d)}}
 A.VV.prototype={
 $0(){var s=window
 s.toString
@@ -76332,7 +76332,7 @@ B.O.cn(s,"mailto:demirciyucelarda@gmail.com","new tab")},
 $S:0}
 A.FW.prototype={
 J(a){var s=null,r=t.p
-return A.ba(s,A.bY(A.a([A.e_(A.a([new A.bm(B.Cf,A.b6("My Experiences",s,s,A.b9(s,s,B.H,s,s,s,s,s,A.bG().$0().d,s,s,25,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s),s)],r),B.A,B.N,B.r),A.bD(s,B.Il,B.v,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.Zh(),s,s,s),A.bY(A.a([new A.bm(B.cE,A.b6("Bili\u015fim Academy",s,s,A.b9(s,s,B.fv,s,s,s,s,s,A.bG().$0().d,s,s,25,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s),s),new A.bm(B.cE,A.b6("Ethical Hacking Instructor",s,s,A.b9(s,s,B.h,s,s,s,s,s,A.bG().$0().d,s,s,35,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s),s)],r),B.A,B.aG,B.r)],r),B.A,B.N,B.r),B.l,B.b9,s,s,s,this.c*0.8,s,s,s,s,this.d)}}
+return A.ba(s,A.bY(A.a([A.e_(A.a([new A.bm(B.Cf,A.b6("My Experiences",s,s,A.b9(s,s,B.H,s,s,s,s,s,A.bG().$0().d,s,s,25,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s),s)],r),B.A,B.N,B.r),A.bD(s,B.Il,B.v,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.Zh(),s,s,s),A.bY(A.a([new A.bm(B.cE,A.b6("Bili\u015fim Academy",s,s,A.b9(s,s,B.fv,s,s,s,s,s,A.bG().$0().d,s,s,25,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s),s),new A.bm(B.cE,A.b6("Ethical Hacking Instructor",s,s,A.b9(s,s,B.h,s,s,s,s,s,A.bG().$0().d,s,s,35,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s),s)],r),B.A,B.aG,B.r)],r),B.A,B.N,B.r),B.l,B.b9,s,s,s,this.c,s,s,s,s,this.d)}}
 A.Zh.prototype={
 $0(){var s=window
 s.toString
@@ -76359,7 +76359,7 @@ $0(){A.Jr(this.a).Q_()},
 $S:0}
 A.IA.prototype={
 J(a){var s=null,r=this.c,q=r*0.1
-return A.ba(s,A.bY(A.a([A.c7(s,q,s),A.b6("My Projects",s,s,A.b9(s,s,B.H,s,s,s,s,s,A.bG().$0().d,s,s,40,s,s,B.ae,s,s,!0,s,s,s,s,s,s,s,s),s),A.bD(s,new A.KZ(r,s),B.v,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.a3X(),s,s,s),A.c7(s,q,s),A.bD(s,new A.qI(r,"Yad To Do",B.mo,s),B.v,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.a3Y(),s,s,s),A.bD(s,new A.qI(r,"Group Chat",B.mn,s),B.v,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.a3Z(),s,s,s),A.bD(s,new A.qI(r,"Klima",B.mp,s),B.v,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.a4_(),s,s,s)],t.p),B.A,B.N,B.r),B.l,B.m,s,s,s,r*4,s,s,s,s,this.d)}}
+return A.ba(s,A.bY(A.a([A.c7(s,q,s),A.b6("My Projects",s,s,A.b9(s,s,B.H,s,s,s,s,s,A.bG().$0().d,s,s,40,s,s,B.ae,s,s,!0,s,s,s,s,s,s,s,s),s),A.bD(s,new A.KZ(r,s),B.v,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.a3X(),s,s,s),A.c7(s,q,s),A.bD(s,new A.qI(r,"Yad To Do",B.mo,s),B.v,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.a3Y(),s,s,s),A.bD(s,new A.qI(r,"Group Chat",B.mn,s),B.v,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.a3Z(),s,s,s),A.bD(s,new A.qI(r,"Klima",B.mp,s),B.v,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.a4_(),s,s,s)],t.p),B.A,B.N,B.r),B.l,B.m,s,s,s,r*5.25,s,s,s,s,this.d)}}
 A.a3X.prototype={
 $0(){var s=window
 s.toString
